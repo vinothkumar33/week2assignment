@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+form {
+  display: flex;
+  padding: 20px;
+}
+.wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #f9f9f9;
+}
+.input {
+  margin-right: 10px;
+}
+
+.header {
+  display: inline;
+  text-align: center;
+}
+.list-wrapper {
+  max-height: 200px;
+  overflow-y: auto;
+}
